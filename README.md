@@ -4,7 +4,7 @@
 - :briefcase: Founder [mytamedia](https://www.myta.media), a Digital Agency
 
 ### :adult: About me
-I like to create things and be createive, thats why I am a Frontend Developer by day and an UI & Branddesigner at Night.  
+I like to create things and be creative, thats why I am a Frontend Developer by day and an UI & Branddesigner at Night.  
 Alwayse exploring new projects and improving my skills, currently mostly in JavaScript and WebTech.
 
 ### 📫 You can reach me under `maxknerrich at myta.media`
